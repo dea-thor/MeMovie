@@ -1,4 +1,21 @@
 # MeMovie
 Internship project for Qzzo technologies pvt. limited
-![Screenshot_2020-09-09-21-47-48-067_com snhapp memovie](https://user-images.githubusercontent.com/53041298/92626058-0c8a9f80-f2e7-11ea-9cfc-78204233bd98.jpg)
+
+<p> Main Screen </p>
+
+
+![main](https://user-images.githubusercontent.com/53041298/92626540-a94d3d00-f2e7-11ea-84ff-dc032bd37187.jpg)
+
+
+
+<p> description </p>
+
+![description](https://user-images.githubusercontent.com/53041298/92626625-c8e46580-f2e7-11ea-8795-7d35960d97d1.jpg)
+
+
+<p> favourite </p>
+
+![fav](https://user-images.githubusercontent.com/53041298/92626636-cc77ec80-f2e7-11ea-98c0-f36f7c48a3f6.jpg)
+
+
 
